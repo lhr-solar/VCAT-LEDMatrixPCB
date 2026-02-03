@@ -639,12 +639,6 @@
 		(uuid "11f4dbb0-7d26-4d9f-b463-995b07b511b4")
 	)
 	(junction
-		(at 186.69 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1325b5b6-ae8e-400b-af0a-3cacd1a0d19d")
-	)
-	(junction
 		(at 189.865 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -673,12 +667,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d602614-3fe6-4a27-871a-87ba9ae0b523")
-	)
-	(junction
-		(at 232.41 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "323abb94-b329-4e70-9937-dd799998d9a3")
 	)
 	(junction
 		(at 49.53 107.95)
@@ -735,28 +723,10 @@
 		(uuid "754668cd-8595-4164-b54d-544c9d120a5f")
 	)
 	(junction
-		(at 163.83 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9578ce47-3c85-4206-9033-6a8efa5d2ca5")
-	)
-	(junction
 		(at 186.055 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9665c7d2-6fee-4ce1-820e-5a434dced329")
-	)
-	(junction
-		(at 209.55 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9983505d-5a8f-4064-b5e2-c8e6cea53fee")
-	)
-	(junction
-		(at 118.11 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9d6c4e31-2e3d-43aa-b45b-d249461da6e8")
 	)
 	(junction
 		(at 231.775 72.39)
@@ -782,25 +752,9 @@
 		(color 0 0 0 0)
 		(uuid "c0ced5cb-1873-42e1-8bd3-5dde327e8ca7")
 	)
-	(junction
-		(at 140.97 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d8cf7b85-9495-422e-950c-cb31247b2e69")
-	)
 	(no_connect
-		(at 255.905 123.825)
+		(at 113.665 123.825)
 		(uuid "0dbde943-2f51-4cd3-bdd8-b1a6710b6375")
-	)
-	(wire
-		(pts
-			(xy 151.765 107.95) (xy 151.765 116.205)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01ea31bb-0ca4-4630-b60c-b1ba6ac887e0")
 	)
 	(wire
 		(pts
@@ -874,26 +828,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.905 107.95) (xy 128.905 116.205)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a2a40d2-cc1c-44d1-bde1-a1a38b1ddc5a")
-	)
-	(wire
-		(pts
-			(xy 113.665 123.825) (xy 121.285 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0da242de-85f5-4d67-843d-db39886a7b7c")
-	)
-	(wire
-		(pts
 			(xy 186.055 72.39) (xy 196.85 72.39)
 		)
 		(stroke
@@ -901,16 +835,6 @@
 			(type default)
 		)
 		(uuid "0eaeac83-1c7e-49dc-8905-8a10770c4a11")
-	)
-	(wire
-		(pts
-			(xy 243.205 107.95) (xy 243.205 116.205)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0eef00f4-c467-4364-9a6e-c0512b313201")
 	)
 	(wire
 		(pts
@@ -984,16 +908,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 116.205) (xy 232.41 117.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bf0c7a7-cc6f-4090-9369-2752c1fb01ff")
-	)
-	(wire
-		(pts
 			(xy 154.94 36.83) (xy 154.94 45.085)
 		)
 		(stroke
@@ -1064,16 +978,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 107.95) (xy 140.97 107.315)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "316a90e3-4778-4cc2-bbc1-d685636dd45e")
-	)
-	(wire
-		(pts
 			(xy 189.865 37.465) (xy 189.865 36.83)
 		)
 		(stroke
@@ -1104,16 +1008,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.105 123.825) (xy 212.725 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39a616c8-52f1-4ae8-9b37-3c5b31e65515")
-	)
-	(wire
-		(pts
 			(xy 186.055 72.39) (xy 186.055 71.755)
 		)
 		(stroke
@@ -1121,16 +1015,6 @@
 			(type default)
 		)
 		(uuid "3ae26fca-83c8-4514-a074-80fec0e64e3d")
-	)
-	(wire
-		(pts
-			(xy 186.69 107.95) (xy 186.69 107.315)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ae4bec9-b927-44ec-b715-5d930a67324f")
 	)
 	(wire
 		(pts
@@ -1191,16 +1075,6 @@
 			(type default)
 		)
 		(uuid "44c4a8d2-d53e-4a4f-ae7f-802850dce3f4")
-	)
-	(wire
-		(pts
-			(xy 232.41 107.95) (xy 243.205 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48436669-7c8b-48a3-b3a2-399a5eb9f914")
 	)
 	(wire
 		(pts
@@ -1374,16 +1248,6 @@
 	)
 	(wire
 		(pts
-			(xy 159.385 123.825) (xy 167.005 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b0129eb-7d84-4371-b47e-98dbf23b4705")
-	)
-	(wire
-		(pts
 			(xy 49.53 107.95) (xy 49.53 107.315)
 		)
 		(stroke
@@ -1404,16 +1268,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 107.95) (xy 220.345 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6de1e850-8ebf-443d-8515-0c81faba27a0")
-	)
-	(wire
-		(pts
 			(xy 200.66 36.83) (xy 200.66 45.085)
 		)
 		(stroke
@@ -1421,16 +1275,6 @@
 			(type default)
 		)
 		(uuid "7363f8b0-c72a-45ae-b58e-04db3aae1bb9")
-	)
-	(wire
-		(pts
-			(xy 163.83 107.95) (xy 174.625 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73ded26a-c6fd-4cee-9582-50f1f3d9deb8")
 	)
 	(wire
 		(pts
@@ -1474,16 +1318,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 107.95) (xy 197.485 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75a0455e-4eae-4028-af37-20e6f4aab788")
-	)
-	(wire
-		(pts
 			(xy 212.725 36.83) (xy 212.725 36.195)
 		)
 		(stroke
@@ -1504,16 +1338,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.245 123.825) (xy 189.865 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d30c87f-0cd4-4d08-9bff-ac6676d76230")
-	)
-	(wire
-		(pts
 			(xy 144.145 45.085) (xy 144.145 46.355)
 		)
 		(stroke
@@ -1531,16 +1355,6 @@
 			(type default)
 		)
 		(uuid "84cc8fb0-1e06-4681-9a7c-0d866ebcab5b")
-	)
-	(wire
-		(pts
-			(xy 163.83 107.95) (xy 163.83 107.315)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85701ca8-5ce7-4a36-b98d-c79a215a10c7")
 	)
 	(wire
 		(pts
@@ -1591,16 +1405,6 @@
 			(type default)
 		)
 		(uuid "88e6162e-9bb2-4737-9692-ea92bd6ce088")
-	)
-	(wire
-		(pts
-			(xy 232.41 108.585) (xy 232.41 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a5057f9-6306-4a21-92a6-f13ecbb7af09")
 	)
 	(wire
 		(pts
@@ -1664,26 +1468,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 107.95) (xy 151.765 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92c94284-f415-4530-bc95-e3eeb2ff27b7")
-	)
-	(wire
-		(pts
-			(xy 140.97 108.585) (xy 140.97 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94fd86e3-7cd2-42d8-88fd-e7c879f358c7")
-	)
-	(wire
-		(pts
 			(xy 95.25 115.57) (xy 95.25 117.475)
 		)
 		(stroke
@@ -1691,16 +1475,6 @@
 			(type default)
 		)
 		(uuid "95ed4625-5a2f-478f-a378-f216032ab0cb")
-	)
-	(wire
-		(pts
-			(xy 227.965 123.825) (xy 235.585 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9647fdc5-14f4-420b-b136-143866082007")
 	)
 	(wire
 		(pts
@@ -1804,16 +1578,6 @@
 	)
 	(wire
 		(pts
-			(xy 136.525 123.825) (xy 144.145 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a391cad8-d997-467e-b6c9-19541dc9a085")
-	)
-	(wire
-		(pts
 			(xy 72.39 115.57) (xy 72.39 117.475)
 		)
 		(stroke
@@ -1864,16 +1628,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 108.585) (xy 186.69 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "add44020-5629-4597-a714-10be27e08499")
-	)
-	(wire
-		(pts
 			(xy 260.985 88.265) (xy 260.985 100.33)
 		)
 		(stroke
@@ -1881,16 +1635,6 @@
 			(type default)
 		)
 		(uuid "ae11afb9-726f-433c-831f-791c3dd916ac")
-	)
-	(wire
-		(pts
-			(xy 174.625 107.95) (xy 174.625 116.205)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b085e3b9-dbfb-45a7-bf2a-5070195aae2b")
 	)
 	(wire
 		(pts
@@ -1934,16 +1678,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 108.585) (xy 163.83 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b380a4c1-6555-4c32-a8e3-611cc1f7733b")
-	)
-	(wire
-		(pts
 			(xy 231.775 73.025) (xy 231.775 72.39)
 		)
 		(stroke
@@ -1964,26 +1698,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 107.95) (xy 209.55 107.315)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7802d21-ef34-4a90-b7da-75cf67982903")
-	)
-	(wire
-		(pts
-			(xy 250.825 123.825) (xy 255.905 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7a7b470-3c8f-4dbc-88e6-313f92f7e804")
-	)
-	(wire
-		(pts
 			(xy 163.195 72.39) (xy 173.99 72.39)
 		)
 		(stroke
@@ -1994,16 +1708,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 108.585) (xy 209.55 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbe33838-54c2-4335-9f00-3e45da0dd1d5")
-	)
-	(wire
-		(pts
 			(xy 98.425 36.83) (xy 109.22 36.83)
 		)
 		(stroke
@@ -2011,16 +1715,6 @@
 			(type default)
 		)
 		(uuid "bc1bdb13-5fda-4831-b102-f632245bb7bb")
-	)
-	(wire
-		(pts
-			(xy 118.11 115.57) (xy 118.11 117.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bed4d82b-dc5f-47af-9ec3-80c00cf290cd")
 	)
 	(wire
 		(pts
@@ -2054,16 +1748,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.345 107.95) (xy 220.345 116.205)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5d54e89-f2b2-4221-916f-90b6690e767a")
-	)
-	(wire
-		(pts
 			(xy 94.615 72.39) (xy 105.41 72.39)
 		)
 		(stroke
@@ -2071,16 +1755,6 @@
 			(type default)
 		)
 		(uuid "c6d5f4e3-60d5-4c07-8f30-a34161fdd2bb")
-	)
-	(wire
-		(pts
-			(xy 163.83 116.205) (xy 163.83 117.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c78132f8-6f89-4a3a-a138-0e7b78d008f3")
 	)
 	(wire
 		(pts
@@ -2114,16 +1788,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 107.95) (xy 118.11 107.315)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cefb9637-d3ae-4402-a0e7-6fedef2f4c83")
-	)
-	(wire
-		(pts
 			(xy 140.335 73.025) (xy 140.335 72.39)
 		)
 		(stroke
@@ -2131,16 +1795,6 @@
 			(type default)
 		)
 		(uuid "d1b8d550-92f1-4480-8fca-31a3d65f313a")
-	)
-	(wire
-		(pts
-			(xy 209.55 116.205) (xy 209.55 117.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d36a9947-9513-4400-b940-a31005e0eeb3")
 	)
 	(wire
 		(pts
@@ -2161,16 +1815,6 @@
 			(type default)
 		)
 		(uuid "d4feb72f-dbb6-40d4-a980-6f3e6c8ec11c")
-	)
-	(wire
-		(pts
-			(xy 232.41 107.95) (xy 232.41 107.315)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d76cfec0-763b-405d-9ab1-cd4be0764f0f")
 	)
 	(wire
 		(pts
@@ -2201,16 +1845,6 @@
 			(type default)
 		)
 		(uuid "dfd7af84-677e-4292-8ddb-c85d6a97cf60")
-	)
-	(wire
-		(pts
-			(xy 140.97 116.205) (xy 140.97 117.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e012ee0f-224c-4eac-a0ca-92d5ace1afc9")
 	)
 	(wire
 		(pts
@@ -2254,16 +1888,6 @@
 	)
 	(wire
 		(pts
-			(xy 197.485 107.95) (xy 197.485 116.205)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4082131-1833-40fc-95f5-947d0485de6d")
-	)
-	(wire
-		(pts
 			(xy 52.705 36.83) (xy 63.5 36.83)
 		)
 		(stroke
@@ -2301,26 +1925,6 @@
 			(type default)
 		)
 		(uuid "e9b6029c-830a-425f-994f-d217e538b103")
-	)
-	(wire
-		(pts
-			(xy 118.11 107.95) (xy 128.905 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea812b72-ad46-4ab6-a016-e18d3d400fbe")
-	)
-	(wire
-		(pts
-			(xy 186.69 116.205) (xy 186.69 117.475)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec2d1ea2-303f-479a-b2ca-a982f405d692")
 	)
 	(wire
 		(pts
@@ -2520,76 +2124,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0181")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 118.11 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "02559dcd-d0c0-479b-90e9-e5e6c42b142a")
-		(property "Reference" "C76"
-			(at 121.285 110.4899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 121.285 113.0299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 119.0752 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 118.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 118.11 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "de023f40-8c79-409a-b5b0-df919ee82b78")
-		)
-		(pin "2"
-			(uuid "d1cb868b-ad47-4195-a6d1-8c065c6c9107")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -3007,73 +2541,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 197.485 131.445 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0c9f8e52-bc52-4c2a-b5d2-f5fdceb1d6ca")
-		(property "Reference" "#PWR0223"
-			(at 197.485 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 197.485 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 197.485 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 197.485 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 197.485 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5d23b2fc-befe-4f66-8d5e-db9d209f0a34")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0223")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 121.285 36.195 0)
 		(unit 1)
@@ -3405,72 +2872,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 186.69 117.475 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "187183ec-6652-4894-9553-3aad0032bae8")
-		(property "Reference" "#PWR0222"
-			(at 186.69 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 186.69 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 186.69 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fc5c77d2-4ac0-48a7-8e25-d62ad39580f5")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0222")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:WS2812B")
 		(at 200.66 52.705 0)
 		(unit 1)
@@ -3546,76 +2947,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 186.69 112.395 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1af7ecc7-9d79-4a17-9a43-e962f5988acb")
-		(property "Reference" "C79"
-			(at 189.865 111.1249 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 189.865 113.6649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 187.6552 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 186.69 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b84beee4-9ab1-4318-aab7-1608ba3687be")
-		)
-		(pin "2"
-			(uuid "dff34233-92f6-4891-9761-a9fc4ca5d3fd")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "C79")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 75.565 46.355 0)
 		(unit 1)
@@ -3676,209 +3007,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0157")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 232.41 117.475 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1fc032df-57f4-4d5e-9749-0eb22d1fb0a9")
-		(property "Reference" "#PWR0228"
-			(at 232.41 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 232.41 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 232.41 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b504e47a-5334-434a-bd25-088e427db074")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0228")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 174.625 131.445 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2102fa5e-4991-4c51-aa0d-d631c0cc31c8")
-		(property "Reference" "#PWR0220"
-			(at 174.625 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 174.625 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 174.625 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 174.625 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 174.625 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "223642f5-7ef3-441b-a26d-9b6c376b15bc")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0220")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 232.41 112.395 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2103121d-ded4-48a3-8ba2-e467894918ce")
-		(property "Reference" "C81"
-			(at 235.585 111.1249 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 235.585 113.6649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 233.3752 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 232.41 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 232.41 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec255850-e333-4a7e-b1d2-f57a5362e1fb")
-		)
-		(pin "2"
-			(uuid "a93b683b-2d9c-4924-892e-ffe0e114c101")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -4219,72 +3347,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0206")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 186.69 107.315 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2dec5ddd-d3a7-48a9-bd27-421636a8ecea")
-		(property "Reference" "#PWR0221"
-			(at 186.69 111.125 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 186.69 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 186.69 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0005f952-614b-4f2b-9d17-5cac1924c269")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -4772,81 +3834,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 128.905 123.825 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3d9b57bd-71c1-40e2-bd5f-c5815a710792")
-		(property "Reference" "D76"
-			(at 134.62 114.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 134.62 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 130.175 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 131.445 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 128.905 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "063f58cc-9478-4983-b3be-4a741ac41007")
-		)
-		(pin "2"
-			(uuid "f8a3e27c-0951-40fa-a1a2-53a6d5d2abe3")
-		)
-		(pin "1"
-			(uuid "e8008776-fc54-4630-afe7-f73c0da54d97")
-		)
-		(pin "3"
-			(uuid "a968401d-27a5-4fdc-97fe-2098bfc97197")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "D76")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 231.775 71.755 0)
 		(unit 1)
@@ -5121,81 +4108,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 174.625 123.825 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "42be4871-925f-4101-9ac7-0a5fef9bb0f7")
-		(property "Reference" "D78"
-			(at 180.34 114.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 180.34 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 175.895 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 177.165 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 174.625 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "4b1f9f57-38bd-438d-9e9e-c62fd8beba5b")
-		)
-		(pin "2"
-			(uuid "35edd504-64c6-435d-a462-7150cd898e20")
-		)
-		(pin "1"
-			(uuid "fa45db48-ea0e-4dde-922e-6207f06b92d7")
-		)
-		(pin "3"
-			(uuid "dbedf363-b07c-4f00-8de6-d810f28742c1")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "D78")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 52.705 36.195 0)
 		(unit 1)
@@ -5256,148 +4168,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0262")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 128.905 131.445 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "43b3fe91-6414-40a7-8e4a-645a5bb8f225")
-		(property "Reference" "#PWR0214"
-			(at 128.905 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 128.905 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 128.905 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.905 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.905 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "34a4df91-c46d-48e8-ae0e-b2248d418f0e")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0214")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 151.765 123.825 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45675b9f-bd44-456f-8ebf-2fce27e1e7e0")
-		(property "Reference" "D77"
-			(at 157.48 114.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 157.48 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 153.035 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 154.305 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 151.765 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "5196ebaf-4190-46ab-8dd0-6695ba97e832")
-		)
-		(pin "2"
-			(uuid "8d648798-1219-4cdb-9391-647c63212977")
-		)
-		(pin "1"
-			(uuid "42a15a46-a8c1-4046-85a5-c507f92e5291")
-		)
-		(pin "3"
-			(uuid "3fa42454-8091-481e-938a-2a69ddbbcdab")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -5752,73 +4522,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 151.765 131.445 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53a7418e-e76d-4773-a29d-e8894b6cf5d4")
-		(property "Reference" "#PWR0217"
-			(at 151.765 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 151.765 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 151.765 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.765 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.765 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "acc1d703-6a37-4b03-bbcb-4e8a4a92d839")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0217")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 75.565 40.64 0)
 		(unit 1)
@@ -5949,72 +4652,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0210")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 140.97 107.315 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5adf05f9-dad3-4db0-a50e-600b6e53e217")
-		(property "Reference" "#PWR0215"
-			(at 140.97 111.125 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 140.97 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 140.97 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "14f0fb51-8422-4c0d-9a3a-9f3dc30c095e")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -6157,72 +4794,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "D71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 118.11 107.315 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5f90ac6f-55af-4853-9987-af1f7974094d")
-		(property "Reference" "#PWR0212"
-			(at 118.11 111.125 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 118.11 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 118.11 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 118.11 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe76c72b-17d5-4d6d-8f00-86d62cf65706")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -6489,81 +5060,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0184")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 197.485 123.825 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "650527df-8f0b-402d-92b2-7012a37e09b9")
-		(property "Reference" "D79"
-			(at 203.2 114.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 203.2 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 198.755 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 200.025 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 197.485 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "618d3116-6462-4435-b340-4d6e2f56cb06")
-		)
-		(pin "2"
-			(uuid "75baff59-b6c4-4454-b88b-e70aaefa15dc")
-		)
-		(pin "1"
-			(uuid "602a41d8-74b0-4019-bb8c-09bda806afba")
-		)
-		(pin "3"
-			(uuid "032f1918-0155-4d42-87cf-4199bf321a1f")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -7344,72 +5840,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 209.55 117.475 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7db2c702-f411-4b93-984b-fe8c783ed3c5")
-		(property "Reference" "#PWR0225"
-			(at 209.55 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 209.55 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 209.55 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "039f87d4-6882-4ff2-aeca-3834d0f2af75")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0225")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 163.195 71.755 0)
 		(unit 1)
@@ -7734,72 +6164,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0197")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 118.11 117.475 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "849990ec-9f86-455f-aa7d-692b03cabd5e")
-		(property "Reference" "#PWR0213"
-			(at 118.11 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 118.11 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 118.11 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 118.11 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "33db9e5a-1698-4eb5-b7d2-d54a8041bb1f")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -8237,72 +6601,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 209.55 107.315 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94d574fb-6c92-43ac-b8c1-a4bf4ada7e21")
-		(property "Reference" "#PWR0224"
-			(at 209.55 111.125 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 209.55 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 209.55 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 209.55 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c8c39e00-dba2-4e0f-adef-a136009952d5")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0224")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 94.615 81.915 0)
 		(unit 1)
@@ -8436,72 +6734,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 232.41 107.315 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ce8499e-ee0f-4a13-87c7-fb541e450a43")
-		(property "Reference" "#PWR0227"
-			(at 232.41 111.125 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 232.41 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 232.41 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 232.41 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 232.41 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "55c509c9-840b-4e23-8574-7ba6e6bfb3dd")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0227")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 212.725 46.355 0)
 		(unit 1)
@@ -8562,81 +6794,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0175")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 220.345 123.825 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a38a8362-1188-46ab-a6f4-7fd2b5f9a38c")
-		(property "Reference" "D80"
-			(at 226.06 114.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 226.06 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 221.615 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 222.885 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 220.345 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "aac9c71a-4180-489d-9710-39371ecc7607")
-		)
-		(pin "2"
-			(uuid "18f40eb0-0f11-49d1-bc2d-043ed0058780")
-		)
-		(pin "1"
-			(uuid "9733461d-7075-42a7-99a7-da9333834141")
-		)
-		(pin "3"
-			(uuid "3834b02b-e2e5-43a6-9237-a120183e2a8c")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -8770,72 +6927,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0177")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 140.97 117.475 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ab748090-cab4-410a-bc53-1745adf676c6")
-		(property "Reference" "#PWR0216"
-			(at 140.97 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 140.97 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "41f77589-7c3b-4c09-9f80-91cf51c45ae7")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -9171,142 +7262,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0264")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 209.55 112.395 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bfba9fb1-3efd-4063-b2db-6c71adf84607")
-		(property "Reference" "C80"
-			(at 212.725 111.1249 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 212.725 113.6649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 210.5152 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 209.55 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 209.55 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a7a8c23f-d79f-469e-ab01-ffcae7c964ab")
-		)
-		(pin "2"
-			(uuid "04ff5702-7911-48fb-849c-0864afec28ca")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "C80")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 163.83 117.475 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c17d4478-77ef-4745-84ac-28830fe032c0")
-		(property "Reference" "#PWR0219"
-			(at 163.83 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 163.83 122.555 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 163.83 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 163.83 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 163.83 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "55de2666-f910-4ae9-8dc5-93d0659fa678")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -10009,72 +7964,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0205")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 163.83 107.315 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d784ef67-1400-4f9f-8afd-85d3cd877e5e")
-		(property "Reference" "#PWR0218"
-			(at 163.83 111.125 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 163.83 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 163.83 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 163.83 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 163.83 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f5c22f4e-99b0-42be-b86a-17f94ca1bee4")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -10912,147 +8801,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 220.345 131.445 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ef006c14-b316-4335-a538-8226b6dacf2b")
-		(property "Reference" "#PWR0226"
-			(at 220.345 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 219.71 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.345 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.345 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 220.345 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "01a20db9-6914-4be1-ad84-75348a948155")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0226")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 243.205 123.825 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "efe1d571-d6a6-4ef0-978a-68b5b1e9cd9c")
-		(property "Reference" "D81"
-			(at 248.92 114.935 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 248.92 117.475 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 244.475 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 245.745 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 243.205 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "b34640ab-08dc-464d-a519-bdbb314aecd0")
-		)
-		(pin "2"
-			(uuid "397cc177-d742-4014-828a-91f4c4b939c6")
-		)
-		(pin "1"
-			(uuid "fb60cc3e-171d-4ce4-a85b-94ddf790fea7")
-		)
-		(pin "3"
-			(uuid "e22e71ae-eeb5-4f6e-9c33-47f2b7259bc0")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "D81")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:WS2812B")
 		(at 196.85 88.265 0)
 		(unit 1)
@@ -11122,73 +8870,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "D70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 243.205 131.445 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f5812b02-eaf9-441a-83e0-4baf925df23c")
-		(property "Reference" "#PWR0229"
-			(at 243.205 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 243.205 136.525 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 243.205 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 243.205 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.205 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c86ee687-6829-4592-bf49-7c2f542b8c9b")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -11406,76 +9087,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 140.97 112.395 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f9d2f66e-b4e2-4987-8c00-f6a3b12cd592")
-		(property "Reference" "C77"
-			(at 144.145 111.1249 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 144.145 113.6649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 141.9352 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 140.97 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f639a85-21a6-42c2-a4d9-3398b6d16989")
-		)
-		(pin "2"
-			(uuid "22d0b19d-c5b5-4d98-ae00-97cdb0ecd42e")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "C77")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 98.425 46.355 0)
 		(unit 1)
@@ -11603,76 +9214,6 @@
 			(project "VCAT-LEDMatrixPCB"
 				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
 					(reference "#PWR0198")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 163.83 112.395 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd675670-ae3c-42db-bc53-df5f18407197")
-		(property "Reference" "C78"
-			(at 167.005 111.1249 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 167.005 113.6649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 164.7952 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 163.83 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 163.83 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5fa64da8-806c-4bf9-b6a5-e5abe2b71564")
-		)
-		(pin "2"
-			(uuid "13c05e24-9779-4fc2-b5c5-ff87e01eaded")
-		)
-		(instances
-			(project "VCAT-LEDMatrixPCB"
-				(path "/9d7ed99a-92cd-4749-ada7-c45ab33188a4/ffb6097a-173e-470b-92f7-1ee630391dd1"
-					(reference "C78")
 					(unit 1)
 				)
 			)
